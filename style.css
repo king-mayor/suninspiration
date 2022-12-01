@@ -291,7 +291,7 @@ footer{
         flex-wrap: wrap;
     }
     .container1 img, .container2 img, .container3 img {
-        width: 200px;
+        width: 250px;
     }
     .footer-containers {
         flex-direction: column;
